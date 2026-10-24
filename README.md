@@ -58,7 +58,7 @@ Me enfoco en el procesamiento de grandes volúmenes de datos, arquitecturas Data
 ¡Estoy abierta a nuevas oportunidades y colaboraciones en el área de datos! Puedes contactarme por cualquiera de estos medios:
 
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"> **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil-aqui/)
-- 📧 **Correo Electrónico:** [tu.correo@email.com](mailto:tu.correo@email.com)
+- 📧 **Correo Electrónico:** [floramgam@gmail.com](mailto:tu.correo@email.com)
 - 📱 **Teléfono / WhatsApp:** [+591 XXXXXXXX](https://wa.me/591XXXXXXXX)
 - 📍 **Ubicación:** Santa Cruz de la Sierra, Bolivia
 
